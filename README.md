@@ -37,6 +37,7 @@ _This list is for projects, tools, or pretty much any things related to Arweave 
 
 ## Apps 🕯️
 
+- [Chitin](https://chitin.id) - On-chain soul identity for AI agents. Uses Arweave for immutable genesis records and versioned chronicles (growth records), with Soulbound Tokens on Base L2. Live on Base Mainnet.
 - [Alex](https://alex.arweave.dev/) - Preserving Human History
 - [Akord](https://akord.com/) - Permanent blockchain storage for the things that matter most.
 - [ArNS](https://arweave.dev/) - Arweave Name System (ArNS)
